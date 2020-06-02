@@ -1,0 +1,44 @@
+2020-02-12 21:49:57,287 main INFO  a01164474.Lab5 (Lab5.java:35) - 2020-02-13T05:49:56.773425600Z
+2020-02-12 21:49:57,290 main INFO  a01164474.Lab5 (Lab5.java:51) - Starting Logging.
+2020-02-12 21:49:57,291 main ERROR a01164474.Lab5 (Lab5.java:62) - Unable to generate customers_report.txt
+2020-02-12 21:49:57,291 main INFO  a01164474.Lab5 (Lab5.java:64) - Exiting Logging.
+2020-02-12 21:49:57,291 main INFO  a01164474.Lab5 (Lab5.java:38) - 2020-02-13T05:49:57.291233500Z
+2020-02-12 21:49:57,292 main INFO  a01164474.Lab5 (Lab5.java:39) - Duration: 517 ms
+2020-02-12 21:50:40,881 main INFO  a01164474.Lab5 (Lab5.java:35) - 2020-02-13T05:50:40.466889300Z
+2020-02-12 21:50:40,885 main INFO  a01164474.Lab5 (Lab5.java:51) - Starting Logging.
+2020-02-12 21:50:40,887 main INFO  a01164474.Lab5 (Lab5.java:56) - listOfCustomers populated by customers.txt file
+2020-02-12 21:50:40,888 main INFO  a01164474.Lab5 (Lab5.java:58) - listOfCustomers sorted by joined date
+2020-02-12 21:50:40,897 main INFO  a01164474.Lab5 (CustomerReport.java:75) - Your file customers_report.txt was successfully generated
+2020-02-12 21:50:40,899 main INFO  a01164474.Lab5 (CopyFile.java:35) - Backup customers_report.bak was successfully generated
+2020-02-12 21:50:40,900 main INFO  a01164474.Lab5 (Lab5.java:64) - Exiting Logging.
+2020-02-12 21:50:40,900 main INFO  a01164474.Lab5 (Lab5.java:38) - 2020-02-13T05:50:40.900728600Z
+2020-02-12 21:50:40,900 main INFO  a01164474.Lab5 (Lab5.java:39) - Duration: 433 ms
+2020-02-12 21:50:50,287 main INFO  a01164474.Lab5 (Lab5.java:35) - 2020-02-13T05:50:49.880443Z
+2020-02-12 21:50:50,290 main INFO  a01164474.Lab5 (Lab5.java:51) - Starting Logging.
+2020-02-12 21:50:50,291 main ERROR a01164474.Lab5 (Lab5.java:62) - Unable to generate customers_report.txt
+2020-02-12 21:50:50,291 main INFO  a01164474.Lab5 (Lab5.java:64) - Exiting Logging.
+2020-02-12 21:50:50,291 main INFO  a01164474.Lab5 (Lab5.java:38) - 2020-02-13T05:50:50.291309100Z
+2020-02-12 21:50:50,291 main INFO  a01164474.Lab5 (Lab5.java:39) - Duration: 410 ms
+2020-02-12 21:51:16,094 main INFO  a01164474.Lab5 (Lab5.java:35) - 2020-02-13T05:51:15.676567800Z
+2020-02-12 21:51:16,098 main INFO  a01164474.Lab5 (Lab5.java:51) - Starting Logging.
+2020-02-12 21:51:16,099 main ERROR a01164474.Lab5 (CustomerReader.java:92) - File customers.txt does not exist!
+2020-02-12 21:51:16,099 main ERROR a01164474.Lab5 (Lab5.java:62) - Unable to generate customers_report.txt
+2020-02-12 21:51:16,099 main INFO  a01164474.Lab5 (Lab5.java:64) - Exiting Logging.
+2020-02-12 21:51:16,099 main INFO  a01164474.Lab5 (Lab5.java:38) - 2020-02-13T05:51:16.099436500Z
+2020-02-12 21:51:16,100 main INFO  a01164474.Lab5 (Lab5.java:39) - Duration: 422 ms
+2020-02-12 21:53:25,755 main INFO  a01164474.Lab5 (Lab5.java:35) - 2020-02-13T05:53:25.345464200Z
+2020-02-12 21:53:25,759 main INFO  a01164474.Lab5 (Lab5.java:51) - Starting Logging.
+2020-02-12 21:53:25,759 main ERROR a01164474.Lab5 (CustomerReader.java:92) - File customers.txt does not exist!
+2020-02-12 21:53:25,759 main ERROR a01164474.Lab5 (Lab5.java:62) - Unable to generate customers_report.txt
+2020-02-12 21:53:25,760 main INFO  a01164474.Lab5 (Lab5.java:64) - Exiting Logging.
+2020-02-12 21:53:25,760 main INFO  a01164474.Lab5 (Lab5.java:38) - 2020-02-13T05:53:25.760325Z
+2020-02-12 21:53:25,760 main INFO  a01164474.Lab5 (Lab5.java:39) - Duration: 414 ms
+2020-02-12 21:53:48,461 main INFO  a01164474.Lab5 (Lab5.java:35) - 2020-02-13T05:53:48.052901400Z
+2020-02-12 21:53:48,465 main INFO  a01164474.Lab5 (Lab5.java:51) - Starting Logging.
+2020-02-12 21:53:48,467 main INFO  a01164474.Lab5 (Lab5.java:56) - listOfCustomers populated by customers.txt file
+2020-02-12 21:53:48,468 main INFO  a01164474.Lab5 (Lab5.java:58) - listOfCustomers sorted by joined date
+2020-02-12 21:53:48,477 main INFO  a01164474.Lab5 (CustomerReport.java:75) - Your file customers_report.txt was successfully generated
+2020-02-12 21:53:48,479 main INFO  a01164474.Lab5 (CopyFile.java:35) - Backup customers_report.bak was successfully generated
+2020-02-12 21:53:48,480 main INFO  a01164474.Lab5 (Lab5.java:64) - Exiting Logging.
+2020-02-12 21:53:48,480 main INFO  a01164474.Lab5 (Lab5.java:38) - 2020-02-13T05:53:48.480757300Z
+2020-02-12 21:53:48,480 main INFO  a01164474.Lab5 (Lab5.java:39) - Duration: 427 ms
